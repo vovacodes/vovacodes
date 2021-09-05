@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, my name is Vova.
+
+I'm a Product Engineer at framer.com, passionate about effortless sharing of code and ideas on the web, and exploring the traditional web and crypto space for possible solutions. 
 
 <!--
 **vovacodes/vovacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
